@@ -1,6 +1,5 @@
 package theater;
 
-
 /**
  * Class representing an invoice for a play.
  */
